@@ -71,7 +71,7 @@ awesome.export("/content/gdrive/MyDrive/mts1/audio/itog.mp3", format="mp3")
 БД содержит уже готовые тифлокомментарии, доступ к которым осуществляется по названию фильма-год.<br>
 Использование БД повысит эффективность работы приложения.<br>
 
-![Визуальное описание БП](https://github.com/alinahasss/mtsss/blob/main/business_page-0001.jpg)
+![Визуальное описание БП](pictures/business_page-0001.jpg)
 
 <h2> Скриншоты сервиса  </h2> 
 
