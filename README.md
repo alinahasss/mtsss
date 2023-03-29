@@ -75,15 +75,15 @@ awesome.export("/content/gdrive/MyDrive/mts1/audio/itog.mp3", format="mp3")
 
 <h2> Скриншоты сервиса  </h2> 
 
-<strong>Главная страница:</strong><br>
+<h3>Главная страница:</h3><br>
 
 ![Главная страница](https://github.com/alinahasss/mtsss/blob/main/photo_2_2023-03-29_17-26-56.jpg)<br>
 
-<strong>Страница с описанием фильма:</strong><br>
+<h3>Страница с описанием фильма:</h3><br>
 
 ![Страница с описание фильма](https://github.com/alinahasss/mtsss/blob/main/photo_1_2023-03-29_17-26-56.jpg)<br>
 
-<strong>Видеоплеер:</strong><br>
+<h3>Видеоплеер:</h3><br>
 
 ![Видеоплеер](https://github.com/alinahasss/mtsss/blob/main/photo_3_2023-03-29_17-26-56.jpg)<br>
  
