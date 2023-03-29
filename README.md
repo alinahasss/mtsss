@@ -2,7 +2,7 @@
 <table border="1" cellspacing="0"
 cellpadding="8" style="background-color:#fff; color:#000">
 <tr>
-<td><img src="https://github.com/alinahasss/mtsss/blob/main/%D0%91%D1%80%D0%B8%D0%BB%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D1%83%D0%BA%D0%B0_online_video_cutter_com_1_.gif" width="300" height="180"> </td>
+<td><img src="pictures/Брилиантовая_рука_online_video_cutter_com_1_.gif" width="300" height="180"> </td>
 <td><img src="https://github.com/alinahasss/mtsss/blob/main/%D0%91%D1%80%D0%B8%D0%BB%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D1%83%D0%BA%D0%B0_online_video_cutter_com_5_gif.gif"> </td>
 </tr>
 <tr>
