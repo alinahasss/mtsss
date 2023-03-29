@@ -12,6 +12,7 @@ cellpadding="8" style="background-color:#fff; color:#000">
 </table>
 
 Эти инструкции позволят вам получить копию проекта, запущенного на локальном компьютере для целей разработки и тестирования.
+В папке доп.файлы содержатся все материалы, которые были использованы при разработке и обучении нейросети, а также результаты.
 
 <h2> Установка </h2>
 
@@ -47,17 +48,15 @@ Audio(sound_file, autoplay=True)
 ```
 !pip install pydub
 from pydub import AudioSegment
-sound1 = AudioSegment.from_file("/content/gdrive/MyDrive/mts1/audio/1.wav", format="wav")
-sound2 = AudioSegment.from_file("/content/gdrive/MyDrive/mts1/audio/2.wav", format="wav")
-
-# sound1 6 dB louder
-louder = sound1 + 6
-
-# Overlay sound2 over sound1 at position 0  (use louder instead of sound1 to use the louder version)
-overlay = sound1.overlay(sound2, position=0)
-
-# simple export
-file_handle = overlay.export("/content/gdrive/MyDrive/mts1/audio/output.mp3", format="mp3")
+song1 = AudioSegment.from_mp3("/content/gdrive/MyDrive/mts1/audio/1.wav")
+song2 = AudioSegment.from_mp3("/content/gdrive/MyDrive/mts1/audio/2.wav")
+beginning = song1
+end = song2
+without_the_middle = beginning + end
+with_style = beginning.append(end)
+do_it_over = song1 + song2
+awesome = do_it_over.fade_in(2000).fade_out(3000)
+awesome.export("/content/gdrive/MyDrive/mts1/audio/itog.mp3", format="mp3")
 ```
 
 <h2> Предложения по масштабированию </h2> 
@@ -75,7 +74,14 @@ file_handle = overlay.export("/content/gdrive/MyDrive/mts1/audio/output.mp3", fo
 ![Визуальное описание БП](https://github.com/alinahasss/mtsss/blob/main/business_page-0001.jpg)
 
 <h2> Скриншоты сервиса  </h2> 
-![Главная страница]
-![Страница с описание фильма]
-![Видеоплеер]
 
+Главная страница:<br>
+
+![Главная страница](https://github.com/alinahasss/mtsss/blob/main/photo_2_2023-03-29_17-26-56.jpg)<br>
+Страница с описанием фильма:<br>
+
+![Страница с описание фильма](https://github.com/alinahasss/mtsss/blob/main/photo_1_2023-03-29_17-26-56.jpg)<br>
+
+Видеоплеер:<br>
+![Видеоплеер](https://github.com/alinahasss/mtsss/blob/main/photo_3_2023-03-29_17-26-56.jpg)<br>
+ 
