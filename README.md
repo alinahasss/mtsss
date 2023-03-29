@@ -1,4 +1,9 @@
 <h1 align="center"> MTS KION </h1>
+
+Ссылка на сайт: https://disk.yandex.ru/d/RBfsPnQTZ09KWg
+
+Результаты обучения нейронной сети:
+
 <table border="1" cellspacing="0"
 cellpadding="8" style="background-color:#fff; color:#000">
 <tr>
