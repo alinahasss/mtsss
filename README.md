@@ -1,4 +1,4 @@
-<h1 align="center"> MTS KION </h1>
+<h1 align="center"> MTS KION команда Войти в IT</h1>
 
 Ссылка на сайт: https://disk.yandex.ru/d/RBfsPnQTZ09KWg
 
