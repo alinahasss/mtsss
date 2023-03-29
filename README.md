@@ -78,10 +78,12 @@ awesome.export("/content/gdrive/MyDrive/mts1/audio/itog.mp3", format="mp3")
 Главная страница:<br>
 
 ![Главная страница](https://github.com/alinahasss/mtsss/blob/main/photo_2_2023-03-29_17-26-56.jpg)<br>
+
 Страница с описанием фильма:<br>
 
 ![Страница с описание фильма](https://github.com/alinahasss/mtsss/blob/main/photo_1_2023-03-29_17-26-56.jpg)<br>
 
 Видеоплеер:<br>
+
 ![Видеоплеер](https://github.com/alinahasss/mtsss/blob/main/photo_3_2023-03-29_17-26-56.jpg)<br>
  
